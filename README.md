@@ -99,3 +99,11 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 | **`/MATLAB/`** | Image processing & neural network code 🤖 |  
 | **`/images/`** | DICOM ultrasound results 📸 |  
 | **`/water-pump/`** | Flow control system documentation ⚙️ |  
+
+#### Participantes
+1. JMVL
+2. CCA
+3. CGN
+4. PMQM
+5. MMVN
+6. SICG
