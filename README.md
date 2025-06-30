@@ -8,6 +8,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
 ## 📌 Overview  
+![Sana](aneurysm/aneurysm.png)  
+*🔍 Phantom*  
+
 Development of **vascular phantoms** simulating stenosis and aneurysms using **clinical ultrasound (B-mode/Doppler)** to assess hemodynamic changes. Created at **Tecnológico de Monterrey**, this project focuses on **accessible educational tools** for medical imaging training.  
 
 ---
@@ -68,7 +71,7 @@ Provides **accessible educational tools** for:
 *🌊 Doppler analysis showing turbulent flow patterns*  
 
 ![Neural Network Performance](images/matriz.jpg)  
-*📈 Confusion matrix of pathology classification*  
+*🧠 Confusion matrix of pathology classification*  
 
 ![Evolution of Sample Prediction](images/evolucion.jpg)  
 *📈 Evolution of Sample Prediction*  
