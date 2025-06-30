@@ -61,14 +61,17 @@ Provides **accessible educational tools** for:
 ---
 
 ## 📊 Results  
-![Stenosis Detection](images/stenosis/reduction.jpg)  
-*🔍 Ultrasound visualization of vascular stenosis*  
+![Sana](images/stenosis/image_0019.jpg)  
+*🔍 Ultrasound visualization*  
 
-![Flow Analysis](images/stenosis/frontiers.jpg)  
+![Flow Analysis](images/stenosis/image_0026.jpg)  
 *🌊 Doppler analysis showing turbulent flow patterns*  
 
-![Neural Network Performance](images/matric.jpg)  
+![Neural Network Performance](images/matriz.jpg)  
 *📈 Confusion matrix of pathology classification*  
+
+![Evolution of Sample Prediction](images/evolucion.jpg)  
+*📈 Evolution of Sample Prediction*  
 
 ---
 
