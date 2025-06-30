@@ -9,7 +9,7 @@
 
 ## 📌 Overview  
 ![Sana](aneurysm/aneurysm.png)  
-*🔍 Phantom*  
+*⚡ Phantom*  
 
 Development of **vascular phantoms** simulating stenosis and aneurysms using **clinical ultrasound (B-mode/Doppler)** to assess hemodynamic changes. Created at **Tecnológico de Monterrey**, this project focuses on **accessible educational tools** for medical imaging training.  
 
